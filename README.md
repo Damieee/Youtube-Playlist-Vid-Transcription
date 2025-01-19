@@ -69,6 +69,8 @@ Saved transcription for 'Video Title 2' to transcriptions/Video Title 2.txt.
 
 - **Platform independent libraries error**: Ensure that Python is correctly installed and added to your system's PATH. Consider using a virtual environment to avoid conflicts.
 
+- **Manual changes to `pytube` library**: If you encounter issues with the `pytube` library, you may need to manually apply changes as recommended [here](https://github.com/pytube/pytube/commit/c0d1aca42c4106e77ab4f8a0600737ea2ad27a96#diff-34b7de4e054a59b9c9a386a81fac050960951773737b50b5c8b746db6a364d47).
+
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
